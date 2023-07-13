@@ -1,4 +1,4 @@
-import Header from '@/components/Header'
+
 import React from 'react'
 import Card1 from '@/components/Card1'
 import Card2 from '@/components/Card2'
@@ -10,6 +10,8 @@ import Card7 from '@/components/Card7'
 import Card8 from '@/components/Card8'
 import Footer from '@/components/Footer'
 import {FiInstagram, FiSearch,FiTwitter} from 'react-icons/fi'
+import Header from '@/components/Header'
+
 const index = () => {
   return (
     <div className='md:h-screen  w-screen bg-white '>
